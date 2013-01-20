@@ -13,5 +13,5 @@ Project Status
 +   **[Roadef12-Common](https://github.com/daniperez/roadef12-common/)**: Library with handy methods and data structures to solve 2012 ROADEF's chalenge.    
     [![Build Status](https://travis-ci.org/daniperez/roadef12-common.png)](https://travis-ci.org/daniperez/roadef12-common)
 
-+   **[Test](https://github.com/daniperez/test/)**: dummy project.    
++   **[Test](https://github.com/daniperez/test/)**: C++ dummy project.    
     [![Build Status](https://travis-ci.org/daniperez/test.png)](https://travis-ci.org/daniperez/test)
